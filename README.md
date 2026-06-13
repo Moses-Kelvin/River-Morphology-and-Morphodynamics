@@ -1,4 +1,4 @@
-# River Morphodynamics Analysis of NIger River Using RivMAP
+# River Morphodynamics Analysis of Niger River Using RivMAP
 
 ## Overview
 
